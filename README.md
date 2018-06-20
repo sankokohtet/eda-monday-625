@@ -35,6 +35,7 @@ Materials for GA Data Science in NYC 6-13
 ### Assignments
 
 | Number | Topic | Due |
+| ----- | ----- | ----- |
 | 1   |  Exploratory Data Analysis |  6.27 |
 | 2   |  Regression | 7.9 |
 | 3  |  Classification | 7.16 |
